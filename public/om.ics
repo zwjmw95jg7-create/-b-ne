@@ -1,0 +1,1029 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//om-calendar//Matchs OM//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OM 2026-2027
+X-WR-CALDESC:Matchs de l'Olympique de Marseille 2026-2027 (Ligue 1\, coupes
+  d'Europe\, Coupe de France) avec la chaîne TV française.
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:om-188077@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20260821T184500Z
+DTEND:20260821T203000Z
+SUMMARY:OM - RC Strasbourg
+DESCRIPTION:Olympique Marseille - RC Strasbourg\nCompétition : Ligue 1 (20
+ 26-2027)\nChaîne TV : non renseignée\nLieu : Stade Vélodrome\nScore : 4
+ -0\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://w
+ ww.footmercato.net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - RC Strasbourg
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188085@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20260830T184500Z
+DTEND:20260830T203000Z
+SUMMARY:AS Monaco - OM
+DESCRIPTION:AS Monaco - Olympique Marseille\nCompétition : Ligue 1 (2026-2
+ 027)\nChaîne TV : non renseignée\nLieu : Stade Louis II\nScore : 2-0\n\n
+ Sources : https://fixtur.es/en/team/olympique-marseille · https://www.foo
+ tmercato.net/programme-tv/club/om
+LOCATION:Stade Louis II
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AS Monaco - OM
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188094@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20260906T184500Z
+DTEND:20260906T203000Z
+SUMMARY:OM - Paris FC
+DESCRIPTION:Olympique Marseille - Paris FC\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : non renseignée\nLieu : Stade Vélodrome\nScore : 2-3\n\
+ nSources : https://fixtur.es/en/team/olympique-marseille · https://www.fo
+ otmercato.net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Paris FC
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188107@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20260911T184500Z
+DTEND:20260911T203000Z
+SUMMARY:Stade Rennais - OM
+DESCRIPTION:Stade Rennais - Olympique Marseille\nCompétition : Ligue 1 (20
+ 26-2027)\nChaîne TV : non renseignée\nLieu : Roazhon Park\nScore : 1-0\n
+ \nSources : https://fixtur.es/en/team/olympique-marseille · https://www.f
+ ootmercato.net/programme-tv/club/om
+LOCATION:Roazhon Park
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stade Rennais - OM
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211185@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20260917T190000Z
+DTEND:20260917T204500Z
+SUMMARY:Beşiktaş - OM
+DESCRIPTION:Beşiktaş - Olympique Marseille\nCompétition : Ligue Europa (
+ 2026-2027)\nChaîne TV : non renseignée\nLieu : Vodafone Park\nScore : 4-
+ 1\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://ww
+ w.footmercato.net/programme-tv/club/om
+LOCATION:Vodafone Park
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Beşiktaş - OM
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188117@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20260920T184500Z
+DTEND:20260920T203000Z
+SUMMARY:OM - Paris Saint-Germain
+DESCRIPTION:Olympique Marseille - Paris Saint-Germain\nCompétition : Ligue
+  1 (2026-2027)\nChaîne TV : non renseignée\nLieu : Stade Vélodrome\nSco
+ re : 1-2\n\nSources : https://fixtur.es/en/team/olympique-marseille · htt
+ ps://www.footmercato.net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Paris Saint-Germain
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188126@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261011T184500Z
+DTEND:20261011T203000Z
+SUMMARY:Estac Troyes - OM
+DESCRIPTION:Estac Troyes - Olympique Marseille\nCompétition : Ligue 1 (202
+ 6-2027)\nChaîne TV : non renseignée\nLieu : Stade de l'Aube\nScore : 0-2
+ \n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www
+ .footmercato.net/programme-tv/club/om
+LOCATION:Stade de l'Aube
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Estac Troyes - OM
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211207@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261015T190000Z
+DTEND:20261015T204500Z
+SUMMARY:OM - Olympiakos Piraeus
+DESCRIPTION:Olympique Marseille - Olympiakos Piraeus\nCompétition : Ligue 
+ Europa (2026-2027)\nChaîne TV : non renseignée\nLieu : Stade Vélodrome\
+ nScore : 0-1\n\nSources : https://fixtur.es/en/team/olympique-marseille ·
+  https://www.footmercato.net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Olympiakos Piraeus
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188127@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261018T130000Z
+DTEND:20261018T144500Z
+SUMMARY:Angers SCO - OM
+DESCRIPTION:Angers SCO - Olympique Marseille\nCompétition : Ligue 1 (2026-
+ 2027)\nChaîne TV : non renseignée\nLieu : Stade Raymond Kopa\nScore : 2-
+ 5\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://ww
+ w.footmercato.net/programme-tv/club/om
+LOCATION:Stade Raymond Kopa
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Angers SCO - OM
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211216@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261022T164500Z
+DTEND:20261022T183000Z
+SUMMARY:SK Sturm Graz - OM · Canal + Foot
+DESCRIPTION:SK Sturm Graz - Olympique Marseille\nCompétition : Ligue Europ
+ a (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Merkur Arena\n\nSources :
+  https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.
+ net/programme-tv/club/om
+LOCATION:Merkur Arena
+URL:https://www.footmercato.net/live/2101413636880552704-sturm-graz-vs-mars
+ eille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SK Sturm Graz - OM · Canal + Foot
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188140@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261025T161500Z
+DTEND:20261025T180000Z
+SUMMARY:OM - Le Havre · DAZN / Ligue 1+ 3
+DESCRIPTION:Olympique Marseille - Le Havre\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : DAZN / Ligue 1+ 3\nLieu : Stade Vélodrome\n\nSources : 
+ https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.n
+ et/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://www.footmercato.net/live/4523002607663769206-marseille-vs-le-ha
+ vre
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Le Havre · DAZN / Ligue 1+ 3
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188148@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261101T194500Z
+DTEND:20261101T213000Z
+SUMMARY:OM - Toulouse · DAZN / Ligue 1+
+DESCRIPTION:Olympique Marseille - Toulouse\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : ht
+ tps://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net
+ /programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://www.footmercato.net/live/7872936214261963529-marseille-vs-toulo
+ use
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Toulouse · DAZN / Ligue 1+
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211238@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261105T200000Z
+DTEND:20261105T214500Z
+SUMMARY:Bayer Leverkusen - OM · Canal +
+DESCRIPTION:Bayer Leverkusen - Olympique Marseille\nCompétition : Ligue Eu
+ ropa (2026-2027)\nChaîne TV : Canal +\nLieu : BayArena\n\nSources : https
+ ://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/pr
+ ogramme-tv/club/om
+LOCATION:BayArena
+URL:https://www.footmercato.net/live/8716826323918059190-bayer-leverkusen-v
+ s-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bayer Leverkusen - OM · Canal +
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188162@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261108T194500Z
+DTEND:20261108T213000Z
+SUMMARY:Lens - OM · DAZN / Ligue 1+
+DESCRIPTION:Lens - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)\
+ nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Bollaert-Delelis\n\nSources : 
+ https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.n
+ et/programme-tv/club/om
+LOCATION:Stade Bollaert-Delelis
+URL:https://www.footmercato.net/live/2320001620100876839-lens-vs-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lens - OM · DAZN / Ligue 1+
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188166@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261122T194500Z
+DTEND:20261122T213000Z
+SUMMARY:OM - Le Mans · DAZN / Ligue 1+
+DESCRIPTION:Olympique Marseille - Le Mans\nCompétition : Ligue 1 (2026-202
+ 7)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : htt
+ ps://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/
+ programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://www.footmercato.net/live/7052139047043144484-marseille-vs-le-ma
+ ns
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Le Mans · DAZN / Ligue 1+
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211249@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261126T174500Z
+DTEND:20261126T193000Z
+SUMMARY:OM - PFC Levski Sofia · Canal + Foot
+DESCRIPTION:Olympique Marseille - PFC Levski Sofia\nCompétition : Ligue Eu
+ ropa (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Stade Vélodrome\n\nSo
+ urces : https://fixtur.es/en/team/olympique-marseille · https://www.footm
+ ercato.net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://www.footmercato.net/live/6251862204566439568-marseille-vs-levsk
+ i-sofia
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - PFC Levski Sofia · Canal + Foot
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188173@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261129T140000Z
+DTEND:20261129T154500Z
+SUMMARY:Auxerre - OM · DAZN / Ligue 1+
+DESCRIPTION:Auxerre - Olympique Marseille\nCompétition : Ligue 1 (2026-202
+ 7)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade de l'Abbé-Deschamps\n\nSou
+ rces : https://fixtur.es/en/team/olympique-marseille · https://www.footme
+ rcato.net/programme-tv/club/om
+LOCATION:Stade de l'Abbé-Deschamps
+URL:https://www.footmercato.net/live/4884563088237631607-auxerre-vs-marseil
+ le
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auxerre - OM · DAZN / Ligue 1+
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188183@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261205T214500Z
+SUMMARY:OM - OGC Nice · chaîne à venir
+DESCRIPTION:Olympique Marseille - OGC Nice\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://f
+ ixtur.es/en/team/olympique-marseille · https://www.footmercato.net/progra
+ mme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - OGC Nice · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211269@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261210T174500Z
+DTEND:20261210T193000Z
+SUMMARY:OM - Celta de Vigo · Canal + Foot
+DESCRIPTION:Olympique Marseille - Celta de Vigo\nCompétition : Ligue Europ
+ a (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Stade Vélodrome\n\nSourc
+ es : https://fixtur.es/en/team/olympique-marseille · https://www.footmerc
+ ato.net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://www.footmercato.net/live/2692215475459777945-marseille-vs-celta
+ -vigo
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Celta de Vigo · Canal + Foot
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188198@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20261213T194500Z
+DTEND:20261213T213000Z
+SUMMARY:Olympique Lyonnais - OM · chaîne à venir
+DESCRIPTION:Olympique Lyonnais - Olympique Marseille\nCompétition : Ligue 
+ 1 (2026-2027)\nChaîne TV : à venir\nLieu : Groupama\n\nSources : https:/
+ /fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/prog
+ ramme-tv/club/om
+LOCATION:Groupama
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Olympique Lyonnais - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188199@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270102T200000Z
+DTEND:20270102T214500Z
+SUMMARY:Stade Brestois 29 - OM · chaîne à venir
+DESCRIPTION:Stade Brestois 29 - Olympique Marseille\nCompétition : Ligue 1
+  (2026-2027)\nChaîne TV : à venir\nLieu : Stade Francis-Le Blé\n\nSourc
+ es : https://fixtur.es/en/team/olympique-marseille · https://www.footmerc
+ ato.net/programme-tv/club/om
+LOCATION:Stade Francis-Le Blé
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stade Brestois 29 - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188210@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270116T200000Z
+DTEND:20270116T214500Z
+SUMMARY:OM - Lille · chaîne à venir
+DESCRIPTION:Olympique Marseille - Lille\nCompétition : Ligue 1 (2026-2027)
+ \nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fixt
+ ur.es/en/team/olympique-marseille · https://www.footmercato.net/programme
+ -tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Lille · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211294@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270121T200000Z
+DTEND:20270121T214500Z
+SUMMARY:Celtic - OM · Canal +
+DESCRIPTION:Celtic - Olympique Marseille\nCompétition : Ligue Europa (2026
+ -2027)\nChaîne TV : Canal +\nLieu : Celtic Park\n\nSources : https://fixt
+ ur.es/en/team/olympique-marseille · https://www.footmercato.net/programme
+ -tv/club/om
+LOCATION:Celtic Park
+URL:https://www.footmercato.net/live/5648752160033768166-celtic-glasgow-vs-
+ marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Celtic - OM · Canal +
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188221@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270123T200000Z
+DTEND:20270123T214500Z
+SUMMARY:Lorient - OM · chaîne à venir
+DESCRIPTION:Lorient - Olympique Marseille\nCompétition : Ligue 1 (2026-202
+ 7)\nChaîne TV : à venir\nLieu : Stade du Moustoir - Yves Allainmat\n\nSo
+ urces : https://fixtur.es/en/team/olympique-marseille · https://www.footm
+ ercato.net/programme-tv/club/om
+LOCATION:Stade du Moustoir - Yves Allainmat
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lorient - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-211308@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270128T200000Z
+DTEND:20270128T214500Z
+SUMMARY:OM - RSC Anderlecht · chaîne à venir
+DESCRIPTION:Olympique Marseille - RSC Anderlecht\nCompétition : Ligue Euro
+ pa (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources 
+ : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato
+ .net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue Europa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - RSC Anderlecht · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188229@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270130T200000Z
+DTEND:20270130T214500Z
+SUMMARY:OM - Estac Troyes · chaîne à venir
+DESCRIPTION:Olympique Marseille - Estac Troyes\nCompétition : Ligue 1 (202
+ 6-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https
+ ://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/pr
+ ogramme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Estac Troyes · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188243@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270207T194500Z
+DTEND:20270207T213000Z
+SUMMARY:Paris Saint-Germain - OM · chaîne à venir
+DESCRIPTION:Paris Saint-Germain - Olympique Marseille\nCompétition : Ligue
+  1 (2026-2027)\nChaîne TV : à venir\nLieu : Parc des Princes\n\nSources 
+ : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato
+ .net/programme-tv/club/om
+LOCATION:Parc des Princes
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Paris Saint-Germain - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188249@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270213T200000Z
+DTEND:20270213T214500Z
+SUMMARY:OM - Angers SCO · chaîne à venir
+DESCRIPTION:Olympique Marseille - Angers SCO\nCompétition : Ligue 1 (2026-
+ 2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https:/
+ /fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/prog
+ ramme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Angers SCO · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188261@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270220T200000Z
+DTEND:20270220T214500Z
+SUMMARY:RC Strasbourg - OM · chaîne à venir
+DESCRIPTION:RC Strasbourg - Olympique Marseille\nCompétition : Ligue 1 (20
+ 26-2027)\nChaîne TV : à venir\nLieu : Stade de la Meinau\n\nSources : ht
+ tps://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net
+ /programme-tv/club/om
+LOCATION:Stade de la Meinau
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RC Strasbourg - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188266@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270227T200000Z
+DTEND:20270227T214500Z
+SUMMARY:OM - Stade Rennais · chaîne à venir
+DESCRIPTION:Olympique Marseille - Stade Rennais\nCompétition : Ligue 1 (20
+ 26-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : http
+ s://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/p
+ rogramme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Stade Rennais · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188274@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270306T200000Z
+DTEND:20270306T214500Z
+SUMMARY:Lille - OM · chaîne à venir
+DESCRIPTION:Lille - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)
+ \nChaîne TV : à venir\nLieu : Decathlon Arena - Stade Pierre-Mauroy\n\nS
+ ources : https://fixtur.es/en/team/olympique-marseille · https://www.foot
+ mercato.net/programme-tv/club/om
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lille - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188284@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270313T200000Z
+DTEND:20270313T214500Z
+SUMMARY:OM - AS Monaco · chaîne à venir
+DESCRIPTION:Olympique Marseille - AS Monaco\nCompétition : Ligue 1 (2026-2
+ 027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://
+ fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/progr
+ amme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - AS Monaco · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188297@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270321T194500Z
+DTEND:20270321T213000Z
+SUMMARY:OM - Olympique Lyonnais · chaîne à venir
+DESCRIPTION:Olympique Marseille - Olympique Lyonnais\nCompétition : Ligue 
+ 1 (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources :
+  https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.
+ net/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Olympique Lyonnais · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188302@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270403T180000Z
+DTEND:20270403T194500Z
+SUMMARY:Le Mans - OM · chaîne à venir
+DESCRIPTION:Le Mans - Olympique Marseille\nCompétition : Ligue 1 (2026-202
+ 7)\nChaîne TV : à venir\nLieu : Stade Marie-Marvingt\n\nSources : https:
+ //fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/pro
+ gramme-tv/club/om
+LOCATION:Stade Marie-Marvingt
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Le Mans - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188310@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270410T180000Z
+DTEND:20270410T194500Z
+SUMMARY:OM - Stade Brestois 29 · chaîne à venir
+DESCRIPTION:Olympique Marseille - Stade Brestois 29\nCompétition : Ligue 1
+  (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : 
+ https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.n
+ et/programme-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Stade Brestois 29 · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188319@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270417T180000Z
+DTEND:20270417T194500Z
+SUMMARY:Le Havre - OM · chaîne à venir
+DESCRIPTION:Le Havre - Olympique Marseille\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : à venir\nLieu : Stade Océane\n\nSources : https://fixt
+ ur.es/en/team/olympique-marseille · https://www.footmercato.net/programme
+ -tv/club/om
+LOCATION:Stade Océane
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Le Havre - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188328@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270424T180000Z
+DTEND:20270424T194500Z
+SUMMARY:OM - Auxerre · chaîne à venir
+DESCRIPTION:Olympique Marseille - Auxerre\nCompétition : Ligue 1 (2026-202
+ 7)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fi
+ xtur.es/en/team/olympique-marseille · https://www.footmercato.net/program
+ me-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Auxerre · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188341@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270501T180000Z
+DTEND:20270501T194500Z
+SUMMARY:Toulouse - OM · chaîne à venir
+DESCRIPTION:Toulouse - Olympique Marseille\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : à venir\nLieu : Stadium Municipal de Toulouse\n\nSource
+ s : https://fixtur.es/en/team/olympique-marseille · https://www.footmerca
+ to.net/programme-tv/club/om
+LOCATION:Stadium Municipal de Toulouse
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Toulouse - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188348@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270508T180000Z
+DTEND:20270508T194500Z
+SUMMARY:OGC Nice - OM · chaîne à venir
+DESCRIPTION:OGC Nice - Olympique Marseille\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : à venir\nLieu : Allianz Riviera\n\nSources : https://fi
+ xtur.es/en/team/olympique-marseille · https://www.footmercato.net/program
+ me-tv/club/om
+LOCATION:Allianz Riviera
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OGC Nice - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188355@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270516T180000Z
+DTEND:20270516T194500Z
+SUMMARY:OM - Lens · chaîne à venir
+DESCRIPTION:Olympique Marseille - Lens\nCompétition : Ligue 1 (2026-2027)\
+ nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fixtu
+ r.es/en/team/olympique-marseille · https://www.footmercato.net/programme-
+ tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Lens · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188367@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270522T180000Z
+DTEND:20270522T194500Z
+SUMMARY:Paris FC - OM · chaîne à venir
+DESCRIPTION:Paris FC - Olympique Marseille\nCompétition : Ligue 1 (2026-20
+ 27)\nChaîne TV : à venir\nLieu : Stade Jean Bouin\n\nSources : https://f
+ ixtur.es/en/team/olympique-marseille · https://www.footmercato.net/progra
+ mme-tv/club/om
+LOCATION:Stade Jean Bouin
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Paris FC - OM · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:om-188373@om-calendar.github.io
+DTSTAMP:20261021T135544Z
+CREATED:20261021T135544Z
+LAST-MODIFIED:20261021T135544Z
+SEQUENCE:0
+DTSTART:20270529T180000Z
+DTEND:20270529T194500Z
+SUMMARY:OM - Lorient · chaîne à venir
+DESCRIPTION:Olympique Marseille - Lorient\nCompétition : Ligue 1 (2026-202
+ 7)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fi
+ xtur.es/en/team/olympique-marseille · https://www.footmercato.net/program
+ me-tv/club/om
+LOCATION:Stade Vélodrome
+URL:https://fixtur.es/en/team/olympique-marseille
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Ligue 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OM - Lorient · chaîne à venir
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

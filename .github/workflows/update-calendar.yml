@@ -1,0 +1,72 @@
+name: Mise à jour du calendrier OM
+
+on:
+  schedule:
+    # 2 fois par jour (heures UTC) : 7h17 / 19h17 à Paris en été, 6h17 / 18h17 en hiver
+    - cron: "17 5,17 * * *"
+  workflow_dispatch: # bouton « Run workflow » dans l'onglet Actions
+  push:
+    branches: [main]
+    paths:
+      - "omcal/**"
+      - "public/index.html"
+      - "requirements.txt"
+      - ".github/workflows/update-calendar.yml"
+
+permissions:
+  contents: write # pour enregistrer data/state.json et public/om.ics
+  pages: write
+  id-token: write
+
+concurrency:
+  group: om-calendar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt pytest
+
+      - name: Tests
+        run: python -m pytest -q
+
+      - name: Générer le calendrier
+        run: python -m omcal
+
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json public/om.ics
+          if git diff --cached --quiet; then
+            echo "Aucun changement dans le calendrier."
+          else
+            git commit -m "Mise à jour du calendrier OM"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

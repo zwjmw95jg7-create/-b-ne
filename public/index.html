@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calendrier OM 2026-2027</title>
+  <style>
+    :root { --bg: #f5f8fb; --fg: #13202b; --accent: #2faee0; --card: #fff; --muted: #5b6b78; }
+    @media (prefers-color-scheme: dark) { :root { --bg: #0e1620; --fg: #e8eef3; --card: #172331; --muted: #9fb0bd; } }
+    body { margin: 0; font: 16px/1.5 system-ui, sans-serif; background: var(--bg); color: var(--fg); }
+    main { max-width: 640px; margin: 0 auto; padding: 32px 16px; }
+    h1 { margin: 0 0 4px; }
+    p.sub { margin: 0 0 24px; color: var(--muted); }
+    .card { background: var(--card); border-radius: 12px; padding: 16px; margin-bottom: 12px; }
+    a.btn { display: inline-block; background: var(--accent); color: #fff; text-decoration: none;
+            padding: 10px 16px; border-radius: 8px; font-weight: 600; margin: 4px 8px 4px 0; }
+    code { word-break: break-all; font-size: 14px; }
+    button { font: inherit; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--muted);
+             background: transparent; color: inherit; cursor: pointer; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Calendrier OM 2026-2027</h1>
+  <p class="sub">Ligue 1, coupes d'Europe et Coupe de France, avec la chaîne TV. Mis à jour 2 fois par jour.</p>
+
+  <div class="card">
+    <a class="btn" id="webcal" href="om.ics">S'abonner (iPhone, Mac, Outlook)</a>
+    <a class="btn" id="google" href="#">Ajouter à Google Agenda</a>
+  </div>
+
+  <div class="card">
+    <strong>URL d'abonnement</strong><br>
+    <code id="url">om.ics</code><br><br>
+    <button id="copy" type="button">Copier l'URL</button>
+  </div>
+</main>
+<script>
+  const ics = new URL("om.ics", location.href).href;
+  const webcal = ics.replace(/^https?:/, "webcal:");
+  document.getElementById("url").textContent = ics;
+  document.getElementById("webcal").href = webcal;
+  document.getElementById("google").href =
+    "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
+  document.getElementById("copy").onclick = async (e) => {
+    try { await navigator.clipboard.writeText(ics); e.target.textContent = "Copié ✓"; } catch (_) {}
+  };
+</script>
+</body>
+</html>
