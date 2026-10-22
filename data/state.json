@@ -274,8 +274,8 @@
       "away": "OGC Nice",
       "competition": "Ligue 1 2026-2027",
       "competition_fr": "Ligue 1",
-      "start": "2026-12-05T20:00:00+00:00",
-      "end": "2026-12-05T21:45:00+00:00",
+      "start": "2026-12-06T19:45:00+00:00",
+      "end": "2026-12-06T21:30:00+00:00",
       "time_known": true,
       "channels": [],
       "summary": "OM - OGC Nice · chaîne à venir",
@@ -283,10 +283,10 @@
       "location": "Stade Vélodrome",
       "url": "https://fixtur.es/en/team/olympique-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "045fe22b75276b413b43240ad68c4c2dfccc66c6022cf2b514e649b90f80bb83",
-      "sequence": 0,
+      "fingerprint": "b25fa34edb434e6c85103598efbc8d4fca97711b75d84aaa3f48a76e90214d98",
+      "sequence": 1,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-22T05:44:00+00:00"
     },
     "188198": {
       "source_id": "188198",
@@ -316,8 +316,8 @@
       "away": "Olympique Marseille",
       "competition": "Ligue 1 2026-2027",
       "competition_fr": "Ligue 1",
-      "start": "2027-01-02T20:00:00+00:00",
-      "end": "2027-01-02T21:45:00+00:00",
+      "start": "2027-01-02T16:00:00+00:00",
+      "end": "2027-01-02T17:45:00+00:00",
       "time_known": true,
       "channels": [],
       "summary": "Stade Brestois 29 - OM · chaîne à venir",
@@ -325,10 +325,10 @@
       "location": "Stade Francis-Le Blé",
       "url": "https://fixtur.es/en/team/olympique-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "4ff3aa6e0ec097e7def23a8c96c0627b12b0433744c46da7051ddd961bfe887f",
-      "sequence": 0,
+      "fingerprint": "0191e29c8d7e256c24f608c4feee7ec92b93f6beff597194e62454b8d1f9e547",
+      "sequence": 1,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-22T05:44:00+00:00"
     },
     "188210": {
       "source_id": "188210",
@@ -337,8 +337,8 @@
       "away": "Lille",
       "competition": "Ligue 1 2026-2027",
       "competition_fr": "Ligue 1",
-      "start": "2027-01-16T20:00:00+00:00",
-      "end": "2027-01-16T21:45:00+00:00",
+      "start": "2027-01-15T19:45:00+00:00",
+      "end": "2027-01-15T21:30:00+00:00",
       "time_known": true,
       "channels": [],
       "summary": "OM - Lille · chaîne à venir",
@@ -346,10 +346,10 @@
       "location": "Stade Vélodrome",
       "url": "https://fixtur.es/en/team/olympique-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "8fd490a3bf9c4d3d0a13c978c4dcfddf32a2448a8ecca12db76ea4badf135caf",
-      "sequence": 0,
+      "fingerprint": "6aeea9818d6a72a65712f2b16d02c91f331b3328b1d5b5db16f39cf614ad4371",
+      "sequence": 1,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-22T05:44:00+00:00"
     },
     "188221": {
       "source_id": "188221",
@@ -358,8 +358,8 @@
       "away": "Olympique Marseille",
       "competition": "Ligue 1 2026-2027",
       "competition_fr": "Ligue 1",
-      "start": "2027-01-23T20:00:00+00:00",
-      "end": "2027-01-23T21:45:00+00:00",
+      "start": "2027-01-24T16:15:00+00:00",
+      "end": "2027-01-24T18:00:00+00:00",
       "time_known": true,
       "channels": [],
       "summary": "Lorient - OM · chaîne à venir",
@@ -367,10 +367,10 @@
       "location": "Stade du Moustoir - Yves Allainmat",
       "url": "https://fixtur.es/en/team/olympique-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "88bd5cdc072ca864d6dddca5dac9754f280e6684dd8d3a26b8d3dff2c3029cb7",
-      "sequence": 0,
+      "fingerprint": "c5f9635cb3a4630a1f32f299fedbd0676cc97c714b8b87a0c4ffb89b90bd9c55",
+      "sequence": 1,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-22T05:44:00+00:00"
     },
     "188229": {
       "source_id": "188229",
@@ -379,8 +379,8 @@
       "away": "Estac Troyes",
       "competition": "Ligue 1 2026-2027",
       "competition_fr": "Ligue 1",
-      "start": "2027-01-30T20:00:00+00:00",
-      "end": "2027-01-30T21:45:00+00:00",
+      "start": "2027-01-31T16:15:00+00:00",
+      "end": "2027-01-31T18:00:00+00:00",
       "time_known": true,
       "channels": [],
       "summary": "OM - Estac Troyes · chaîne à venir",
@@ -388,10 +388,10 @@
       "location": "Stade Vélodrome",
       "url": "https://fixtur.es/en/team/olympique-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "92bfab5bf9c0b8381fb5fc6e1c927c7153673a14901a323a6f3f502bda06f741",
-      "sequence": 0,
+      "fingerprint": "e2a435faef0b8722b26c8921419527dbe3173df6c1779fc126063eeb94803813",
+      "sequence": 1,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-22T05:44:00+00:00"
     },
     "188243": {
       "source_id": "188243",
