@@ -227,17 +227,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-211216@om-calendar.github.io
-DTSTAMP:20261021T135544Z
+DTSTAMP:20261023T054416Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261021T135544Z
+LAST-MODIFIED:20261023T054416Z
 SEQUENCE:0
 DTSTART:20261022T164500Z
 DTEND:20261022T183000Z
 SUMMARY:SK Sturm Graz - OM · Canal + Foot
 DESCRIPTION:SK Sturm Graz - Olympique Marseille\nCompétition : Ligue Europ
- a (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Merkur Arena\n\nSources :
-  https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.
- net/programme-tv/club/om
+ a (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Merkur Arena\nScore : 1-0
+ \n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www
+ .footmercato.net/programme-tv/club/om
 LOCATION:Merkur Arena
 URL:https://www.footmercato.net/live/2101413636880552704-sturm-graz-vs-mars
  eille

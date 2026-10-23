@@ -785,14 +785,14 @@
         "Canal + Foot"
       ],
       "summary": "SK Sturm Graz - OM · Canal + Foot",
-      "description": "SK Sturm Graz - Olympique Marseille\nCompétition : Ligue Europa (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Merkur Arena\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "description": "SK Sturm Graz - Olympique Marseille\nCompétition : Ligue Europa (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Merkur Arena\nScore : 1-0\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Merkur Arena",
       "url": "https://www.footmercato.net/live/2101413636880552704-sturm-graz-vs-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "5ba5ba6d1f0e06451da1da422f78eb802234d290ccf8892be494f03cf92d8fad",
+      "fingerprint": "d14ced6baeed8755381acce22254f80a5cb4671d2bb8ecf03dd92dfe31eb0103",
       "sequence": 0,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-23T05:44:16+00:00"
     },
     "211238": {
       "source_id": "211238",
