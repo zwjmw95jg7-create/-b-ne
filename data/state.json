@@ -277,16 +277,19 @@
       "start": "2026-12-06T19:45:00+00:00",
       "end": "2026-12-06T21:30:00+00:00",
       "time_known": true,
-      "channels": [],
-      "summary": "OM - OGC Nice · chaîne à venir",
-      "description": "Olympique Marseille - OGC Nice\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "channels": [
+        "DAZN",
+        "Ligue 1+"
+      ],
+      "summary": "OM - OGC Nice · DAZN / Ligue 1+",
+      "description": "Olympique Marseille - OGC Nice\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Stade Vélodrome",
-      "url": "https://fixtur.es/en/team/olympique-marseille",
+      "url": "https://www.footmercato.net/live/1185928464927619688-marseille-vs-nice",
       "ics_status": "CONFIRMED",
-      "fingerprint": "b25fa34edb434e6c85103598efbc8d4fca97711b75d84aaa3f48a76e90214d98",
-      "sequence": 1,
+      "fingerprint": "d49dc6dc009dba8c4d70fefebe38fca8293837dd6bf7a07a6c16cbcf24f46e8c",
+      "sequence": 2,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-22T05:44:00+00:00"
+      "last_modified": "2026-10-28T05:54:06+00:00"
     },
     "188198": {
       "source_id": "188198",
@@ -298,16 +301,19 @@
       "start": "2026-12-13T19:45:00+00:00",
       "end": "2026-12-13T21:30:00+00:00",
       "time_known": true,
-      "channels": [],
-      "summary": "Olympique Lyonnais - OM · chaîne à venir",
-      "description": "Olympique Lyonnais - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : à venir\nLieu : Groupama\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "channels": [
+        "DAZN",
+        "Ligue 1+"
+      ],
+      "summary": "Olympique Lyonnais - OM · DAZN / Ligue 1+",
+      "description": "Olympique Lyonnais - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Groupama\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Groupama",
-      "url": "https://fixtur.es/en/team/olympique-marseille",
+      "url": "https://www.footmercato.net/live/7273112743146882313-lyon-vs-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "c003480852d4ddf8a3da1e1eaa82c3a45361f29411b51b00632aa2dce01d6e62",
-      "sequence": 0,
+      "fingerprint": "e09feae66f2ffd11f59ab1f8493950a01f963841f9c867e11ce356d34c92dd99",
+      "sequence": 1,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-28T05:54:06+00:00"
     },
     "188199": {
       "source_id": "188199",
@@ -319,16 +325,19 @@
       "start": "2027-01-02T16:00:00+00:00",
       "end": "2027-01-02T17:45:00+00:00",
       "time_known": true,
-      "channels": [],
-      "summary": "Stade Brestois 29 - OM · chaîne à venir",
-      "description": "Stade Brestois 29 - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : à venir\nLieu : Stade Francis-Le Blé\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "channels": [
+        "DAZN",
+        "Ligue 1+"
+      ],
+      "summary": "Stade Brestois 29 - OM · DAZN / Ligue 1+",
+      "description": "Stade Brestois 29 - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Francis-Le Blé\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Stade Francis-Le Blé",
-      "url": "https://fixtur.es/en/team/olympique-marseille",
+      "url": "https://www.footmercato.net/live/1944999567321384069-brest-vs-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "0191e29c8d7e256c24f608c4feee7ec92b93f6beff597194e62454b8d1f9e547",
-      "sequence": 1,
+      "fingerprint": "470fc9d50c579c55c51135c0078ad5ab17c35bf8bc772a5b691e323a12737292",
+      "sequence": 2,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-22T05:44:00+00:00"
+      "last_modified": "2026-10-28T05:54:06+00:00"
     },
     "188210": {
       "source_id": "188210",
@@ -340,16 +349,19 @@
       "start": "2027-01-15T19:45:00+00:00",
       "end": "2027-01-15T21:30:00+00:00",
       "time_known": true,
-      "channels": [],
-      "summary": "OM - Lille · chaîne à venir",
-      "description": "Olympique Marseille - Lille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "channels": [
+        "DAZN",
+        "Ligue 1+"
+      ],
+      "summary": "OM - Lille · DAZN / Ligue 1+",
+      "description": "Olympique Marseille - Lille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Stade Vélodrome",
-      "url": "https://fixtur.es/en/team/olympique-marseille",
+      "url": "https://www.footmercato.net/live/5290718682078739060-marseille-vs-lille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "6aeea9818d6a72a65712f2b16d02c91f331b3328b1d5b5db16f39cf614ad4371",
-      "sequence": 1,
+      "fingerprint": "27958b9a5d037e7f8e9d0b0c3a88a7adf1acb29e061dc2ef43f408ee23ebb5a2",
+      "sequence": 2,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-22T05:44:00+00:00"
+      "last_modified": "2026-10-28T05:54:06+00:00"
     },
     "188221": {
       "source_id": "188221",
@@ -361,16 +373,19 @@
       "start": "2027-01-24T16:15:00+00:00",
       "end": "2027-01-24T18:00:00+00:00",
       "time_known": true,
-      "channels": [],
-      "summary": "Lorient - OM · chaîne à venir",
-      "description": "Lorient - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : à venir\nLieu : Stade du Moustoir - Yves Allainmat\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "channels": [
+        "DAZN",
+        "Ligue 1+"
+      ],
+      "summary": "Lorient - OM · DAZN / Ligue 1+",
+      "description": "Lorient - Olympique Marseille\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade du Moustoir - Yves Allainmat\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Stade du Moustoir - Yves Allainmat",
-      "url": "https://fixtur.es/en/team/olympique-marseille",
+      "url": "https://www.footmercato.net/live/3576569640835168654-lorient-vs-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "c5f9635cb3a4630a1f32f299fedbd0676cc97c714b8b87a0c4ffb89b90bd9c55",
-      "sequence": 1,
+      "fingerprint": "76b107fb20af08ed2a6d94023194fc188ddd38870922d5f181408e7f859825b1",
+      "sequence": 2,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-22T05:44:00+00:00"
+      "last_modified": "2026-10-28T05:54:06+00:00"
     },
     "188229": {
       "source_id": "188229",
@@ -382,16 +397,19 @@
       "start": "2027-01-31T16:15:00+00:00",
       "end": "2027-01-31T18:00:00+00:00",
       "time_known": true,
-      "channels": [],
-      "summary": "OM - Estac Troyes · chaîne à venir",
-      "description": "Olympique Marseille - Estac Troyes\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "channels": [
+        "DAZN",
+        "Ligue 1+"
+      ],
+      "summary": "OM - Estac Troyes · DAZN / Ligue 1+",
+      "description": "Olympique Marseille - Estac Troyes\nCompétition : Ligue 1 (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Stade Vélodrome",
-      "url": "https://fixtur.es/en/team/olympique-marseille",
+      "url": "https://www.footmercato.net/live/2757262122286902051-marseille-vs-troyes",
       "ics_status": "CONFIRMED",
-      "fingerprint": "e2a435faef0b8722b26c8921419527dbe3173df6c1779fc126063eeb94803813",
-      "sequence": 1,
+      "fingerprint": "85a062e45d586d5fe36fb293af42a4905cd2bf7509114e5f22ebd5ab817ac4d4",
+      "sequence": 2,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-22T05:44:00+00:00"
+      "last_modified": "2026-10-28T05:54:06+00:00"
     },
     "188243": {
       "source_id": "188243",
@@ -896,16 +914,18 @@
       "start": "2027-01-28T20:00:00+00:00",
       "end": "2027-01-28T21:45:00+00:00",
       "time_known": true,
-      "channels": [],
-      "summary": "OM - RSC Anderlecht · chaîne à venir",
-      "description": "Olympique Marseille - RSC Anderlecht\nCompétition : Ligue Europa (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "channels": [
+        "Canal +"
+      ],
+      "summary": "OM - RSC Anderlecht · Canal +",
+      "description": "Olympique Marseille - RSC Anderlecht\nCompétition : Ligue Europa (2026-2027)\nChaîne TV : Canal +\nLieu : Stade Vélodrome\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "Stade Vélodrome",
-      "url": "https://fixtur.es/en/team/olympique-marseille",
+      "url": "https://www.footmercato.net/live/7926632971552550049-marseille-vs-anderlecht",
       "ics_status": "CONFIRMED",
-      "fingerprint": "b75f53eff8c6a89676d3951b3c03672078d346c790d058e32e6a92ab33858516",
-      "sequence": 0,
+      "fingerprint": "3361f051a1a0728740a273d429eff9bd79559bbc7cea495c4269ffd6cc56118f",
+      "sequence": 1,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-10-28T05:54:06+00:00"
     }
   }
 }

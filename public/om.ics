@@ -426,25 +426,25 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188183@om-calendar.github.io
-DTSTAMP:20261022T054400Z
+DTSTAMP:20261028T055406Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261022T054400Z
-SEQUENCE:1
+LAST-MODIFIED:20261028T055406Z
+SEQUENCE:2
 DTSTART:20261206T194500Z
 DTEND:20261206T213000Z
-SUMMARY:OM - OGC Nice · chaîne à venir
+SUMMARY:OM - OGC Nice · DAZN / Ligue 1+
 DESCRIPTION:Olympique Marseille - OGC Nice\nCompétition : Ligue 1 (2026-20
- 27)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://f
- ixtur.es/en/team/olympique-marseille · https://www.footmercato.net/progra
- mme-tv/club/om
+ 27)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : ht
+ tps://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net
+ /programme-tv/club/om
 LOCATION:Stade Vélodrome
-URL:https://fixtur.es/en/team/olympique-marseille
+URL:https://www.footmercato.net/live/1185928464927619688-marseille-vs-nice
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Ligue 1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:OM - OGC Nice · chaîne à venir
+DESCRIPTION:OM - OGC Nice · DAZN / Ligue 1+
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -475,73 +475,73 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188198@om-calendar.github.io
-DTSTAMP:20261021T135544Z
+DTSTAMP:20261028T055406Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261021T135544Z
-SEQUENCE:0
+LAST-MODIFIED:20261028T055406Z
+SEQUENCE:1
 DTSTART:20261213T194500Z
 DTEND:20261213T213000Z
-SUMMARY:Olympique Lyonnais - OM · chaîne à venir
+SUMMARY:Olympique Lyonnais - OM · DAZN / Ligue 1+
 DESCRIPTION:Olympique Lyonnais - Olympique Marseille\nCompétition : Ligue 
- 1 (2026-2027)\nChaîne TV : à venir\nLieu : Groupama\n\nSources : https:/
- /fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/prog
- ramme-tv/club/om
+ 1 (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Groupama\n\nSources : 
+ https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.n
+ et/programme-tv/club/om
 LOCATION:Groupama
-URL:https://fixtur.es/en/team/olympique-marseille
+URL:https://www.footmercato.net/live/7273112743146882313-lyon-vs-marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Ligue 1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Olympique Lyonnais - OM · chaîne à venir
+DESCRIPTION:Olympique Lyonnais - OM · DAZN / Ligue 1+
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188199@om-calendar.github.io
-DTSTAMP:20261022T054400Z
+DTSTAMP:20261028T055406Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261022T054400Z
-SEQUENCE:1
+LAST-MODIFIED:20261028T055406Z
+SEQUENCE:2
 DTSTART:20270102T160000Z
 DTEND:20270102T174500Z
-SUMMARY:Stade Brestois 29 - OM · chaîne à venir
+SUMMARY:Stade Brestois 29 - OM · DAZN / Ligue 1+
 DESCRIPTION:Stade Brestois 29 - Olympique Marseille\nCompétition : Ligue 1
-  (2026-2027)\nChaîne TV : à venir\nLieu : Stade Francis-Le Blé\n\nSourc
- es : https://fixtur.es/en/team/olympique-marseille · https://www.footmerc
- ato.net/programme-tv/club/om
+  (2026-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Francis-Le Blé\n
+ \nSources : https://fixtur.es/en/team/olympique-marseille · https://www.f
+ ootmercato.net/programme-tv/club/om
 LOCATION:Stade Francis-Le Blé
-URL:https://fixtur.es/en/team/olympique-marseille
+URL:https://www.footmercato.net/live/1944999567321384069-brest-vs-marseille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Ligue 1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Stade Brestois 29 - OM · chaîne à venir
+DESCRIPTION:Stade Brestois 29 - OM · DAZN / Ligue 1+
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188210@om-calendar.github.io
-DTSTAMP:20261022T054400Z
+DTSTAMP:20261028T055406Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261022T054400Z
-SEQUENCE:1
+LAST-MODIFIED:20261028T055406Z
+SEQUENCE:2
 DTSTART:20270115T194500Z
 DTEND:20270115T213000Z
-SUMMARY:OM - Lille · chaîne à venir
+SUMMARY:OM - Lille · DAZN / Ligue 1+
 DESCRIPTION:Olympique Marseille - Lille\nCompétition : Ligue 1 (2026-2027)
- \nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https://fixt
- ur.es/en/team/olympique-marseille · https://www.footmercato.net/programme
- -tv/club/om
+ \nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : https
+ ://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/pr
+ ogramme-tv/club/om
 LOCATION:Stade Vélodrome
-URL:https://fixtur.es/en/team/olympique-marseille
+URL:https://www.footmercato.net/live/5290718682078739060-marseille-vs-lille
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Ligue 1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:OM - Lille · chaîne à venir
+DESCRIPTION:OM - Lille · DAZN / Ligue 1+
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
@@ -572,73 +572,76 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188221@om-calendar.github.io
-DTSTAMP:20261022T054400Z
+DTSTAMP:20261028T055406Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261022T054400Z
-SEQUENCE:1
+LAST-MODIFIED:20261028T055406Z
+SEQUENCE:2
 DTSTART:20270124T161500Z
 DTEND:20270124T180000Z
-SUMMARY:Lorient - OM · chaîne à venir
+SUMMARY:Lorient - OM · DAZN / Ligue 1+
 DESCRIPTION:Lorient - Olympique Marseille\nCompétition : Ligue 1 (2026-202
- 7)\nChaîne TV : à venir\nLieu : Stade du Moustoir - Yves Allainmat\n\nSo
- urces : https://fixtur.es/en/team/olympique-marseille · https://www.footm
- ercato.net/programme-tv/club/om
+ 7)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade du Moustoir - Yves Allainma
+ t\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://ww
+ w.footmercato.net/programme-tv/club/om
 LOCATION:Stade du Moustoir - Yves Allainmat
-URL:https://fixtur.es/en/team/olympique-marseille
+URL:https://www.footmercato.net/live/3576569640835168654-lorient-vs-marseil
+ le
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Ligue 1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lorient - OM · chaîne à venir
+DESCRIPTION:Lorient - OM · DAZN / Ligue 1+
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-211308@om-calendar.github.io
-DTSTAMP:20261021T135544Z
+DTSTAMP:20261028T055406Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261021T135544Z
-SEQUENCE:0
+LAST-MODIFIED:20261028T055406Z
+SEQUENCE:1
 DTSTART:20270128T200000Z
 DTEND:20270128T214500Z
-SUMMARY:OM - RSC Anderlecht · chaîne à venir
+SUMMARY:OM - RSC Anderlecht · Canal +
 DESCRIPTION:Olympique Marseille - RSC Anderlecht\nCompétition : Ligue Euro
- pa (2026-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources 
- : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato
- .net/programme-tv/club/om
+ pa (2026-2027)\nChaîne TV : Canal +\nLieu : Stade Vélodrome\n\nSources :
+  https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.
+ net/programme-tv/club/om
 LOCATION:Stade Vélodrome
-URL:https://fixtur.es/en/team/olympique-marseille
+URL:https://www.footmercato.net/live/7926632971552550049-marseille-vs-ander
+ lecht
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Ligue Europa
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:OM - RSC Anderlecht · chaîne à venir
+DESCRIPTION:OM - RSC Anderlecht · Canal +
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188229@om-calendar.github.io
-DTSTAMP:20261022T054400Z
+DTSTAMP:20261028T055406Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261022T054400Z
-SEQUENCE:1
+LAST-MODIFIED:20261028T055406Z
+SEQUENCE:2
 DTSTART:20270131T161500Z
 DTEND:20270131T180000Z
-SUMMARY:OM - Estac Troyes · chaîne à venir
+SUMMARY:OM - Estac Troyes · DAZN / Ligue 1+
 DESCRIPTION:Olympique Marseille - Estac Troyes\nCompétition : Ligue 1 (202
- 6-2027)\nChaîne TV : à venir\nLieu : Stade Vélodrome\n\nSources : https
- ://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/pr
- ogramme-tv/club/om
+ 6-2027)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources 
+ : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato
+ .net/programme-tv/club/om
 LOCATION:Stade Vélodrome
-URL:https://fixtur.es/en/team/olympique-marseille
+URL:https://www.footmercato.net/live/2757262122286902051-marseille-vs-troye
+ s
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Ligue 1
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:OM - Estac Troyes · chaîne à venir
+DESCRIPTION:OM - Estac Troyes · DAZN / Ligue 1+
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
