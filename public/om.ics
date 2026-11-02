@@ -277,17 +277,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188148@om-calendar.github.io
-DTSTAMP:20261021T135544Z
+DTSTAMP:20261102T061351Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261021T135544Z
+LAST-MODIFIED:20261102T061351Z
 SEQUENCE:0
 DTSTART:20261101T194500Z
 DTEND:20261101T213000Z
 SUMMARY:OM - Toulouse · DAZN / Ligue 1+
 DESCRIPTION:Olympique Marseille - Toulouse\nCompétition : Ligue 1 (2026-20
- 27)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : ht
- tps://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net
- /programme-tv/club/om
+ 27)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\nScore : 2-0\n\
+ nSources : https://fixtur.es/en/team/olympique-marseille · https://www.fo
+ otmercato.net/programme-tv/club/om
 LOCATION:Stade Vélodrome
 URL:https://www.footmercato.net/live/7872936214261963529-marseille-vs-toulo
  use
