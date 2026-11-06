@@ -826,14 +826,14 @@
         "Canal +"
       ],
       "summary": "Bayer Leverkusen - OM · Canal +",
-      "description": "Bayer Leverkusen - Olympique Marseille\nCompétition : Ligue Europa (2026-2027)\nChaîne TV : Canal +\nLieu : BayArena\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
+      "description": "Bayer Leverkusen - Olympique Marseille\nCompétition : Ligue Europa (2026-2027)\nChaîne TV : Canal +\nLieu : BayArena\nScore : 0-1\n\nSources : https://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/programme-tv/club/om",
       "location": "BayArena",
       "url": "https://www.footmercato.net/live/8716826323918059190-bayer-leverkusen-vs-marseille",
       "ics_status": "CONFIRMED",
-      "fingerprint": "be2e1a5512d25dba9262b6e9b32b008b256979b87582f4f32a8bfb874ca1ddc0",
+      "fingerprint": "13cca2be8267325c607ac4b572428e17f7fc2e47f9930d419cfefe36603fea6d",
       "sequence": 0,
       "created": "2026-10-21T13:55:44+00:00",
-      "last_modified": "2026-10-21T13:55:44+00:00"
+      "last_modified": "2026-11-06T06:10:35+00:00"
     },
     "211249": {
       "source_id": "211249",

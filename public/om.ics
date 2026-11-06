@@ -302,17 +302,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-211238@om-calendar.github.io
-DTSTAMP:20261021T135544Z
+DTSTAMP:20261106T061035Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261021T135544Z
+LAST-MODIFIED:20261106T061035Z
 SEQUENCE:0
 DTSTART:20261105T200000Z
 DTEND:20261105T214500Z
 SUMMARY:Bayer Leverkusen - OM · Canal +
 DESCRIPTION:Bayer Leverkusen - Olympique Marseille\nCompétition : Ligue Eu
- ropa (2026-2027)\nChaîne TV : Canal +\nLieu : BayArena\n\nSources : https
- ://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/pr
- ogramme-tv/club/om
+ ropa (2026-2027)\nChaîne TV : Canal +\nLieu : BayArena\nScore : 0-1\n\nSo
+ urces : https://fixtur.es/en/team/olympique-marseille · https://www.footm
+ ercato.net/programme-tv/club/om
 LOCATION:BayArena
 URL:https://www.footmercato.net/live/8716826323918059190-bayer-leverkusen-v
  s-marseille
