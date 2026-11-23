@@ -351,17 +351,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-188166@om-calendar.github.io
-DTSTAMP:20261021T135544Z
+DTSTAMP:20261123T155936Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261021T135544Z
+LAST-MODIFIED:20261123T155936Z
 SEQUENCE:0
 DTSTART:20261122T194500Z
 DTEND:20261122T213000Z
 SUMMARY:OM - Le Mans · DAZN / Ligue 1+
 DESCRIPTION:Olympique Marseille - Le Mans\nCompétition : Ligue 1 (2026-202
- 7)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\n\nSources : htt
- ps://fixtur.es/en/team/olympique-marseille · https://www.footmercato.net/
- programme-tv/club/om
+ 7)\nChaîne TV : DAZN / Ligue 1+\nLieu : Stade Vélodrome\nScore : 2-3\n\n
+ Sources : https://fixtur.es/en/team/olympique-marseille · https://www.foo
+ tmercato.net/programme-tv/club/om
 LOCATION:Stade Vélodrome
 URL:https://www.footmercato.net/live/7052139047043144484-marseille-vs-le-ma
  ns
