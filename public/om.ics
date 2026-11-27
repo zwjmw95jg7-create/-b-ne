@@ -376,17 +376,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:om-211249@om-calendar.github.io
-DTSTAMP:20261021T135544Z
+DTSTAMP:20261127T150709Z
 CREATED:20261021T135544Z
-LAST-MODIFIED:20261021T135544Z
+LAST-MODIFIED:20261127T150709Z
 SEQUENCE:0
 DTSTART:20261126T174500Z
 DTEND:20261126T193000Z
 SUMMARY:OM - PFC Levski Sofia · Canal + Foot
 DESCRIPTION:Olympique Marseille - PFC Levski Sofia\nCompétition : Ligue Eu
- ropa (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Stade Vélodrome\n\nSo
- urces : https://fixtur.es/en/team/olympique-marseille · https://www.footm
- ercato.net/programme-tv/club/om
+ ropa (2026-2027)\nChaîne TV : Canal + Foot\nLieu : Stade Vélodrome\nScor
+ e : 1-0\n\nSources : https://fixtur.es/en/team/olympique-marseille · http
+ s://www.footmercato.net/programme-tv/club/om
 LOCATION:Stade Vélodrome
 URL:https://www.footmercato.net/live/6251862204566439568-marseille-vs-levsk
  i-sofia
